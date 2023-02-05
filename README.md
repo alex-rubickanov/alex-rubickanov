@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning: 3Ds Max and Unity
+- 🌱 I’m currently learning: Blender and Unity
 - 👯 I’m looking to collaborate with Todd Howard, Josef Fares or at least Neil Druckmann
 - 🤔 I’m looking for help with: Texturing 
 - 💬 Ask me about: Life
