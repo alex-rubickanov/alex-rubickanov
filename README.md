@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning: Blender and Unity
+- 🌱 I’m currently learning: UE5 and Unity
 - 👯 I’m looking to collaborate with game studios
 - 🤔 I’m looking for help with: Texturing 
 - 💬 Ask me about: Life
